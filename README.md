@@ -95,6 +95,8 @@ Install this project with:
 
 To run the project, execute the following command:
 
+Link to [React App](https://github.com/Shakir-Hussain12/hello-react-frontend)
+
 ```sh
   rails s
   for React: bin/dev
