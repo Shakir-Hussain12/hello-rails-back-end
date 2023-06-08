@@ -78,7 +78,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Shakir-Hussain12/hello_webpack.git
+  git clone https://github.com/Shakir-Hussain12/hello-react-frontend.git
 ```
 
 ### Install
@@ -86,14 +86,16 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd <proj_name>
+  cd hello-react-frontend
   bundle install
-  yarn add .
+  npm i
 ```
 
 ### Usage
 
 To run the project, execute the following command:
+
+Link to [React App](https://github.com/Shakir-Hussain12/hello-react-frontend)
 
 ```sh
   rails s
